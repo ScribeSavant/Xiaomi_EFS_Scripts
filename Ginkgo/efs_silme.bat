@@ -24,3 +24,5 @@ echo FSG siliniyor...
 adb shell dd if=/dev/zero of=/dev/block/mmcblk0p17
 echo EFS silindi, islem tamamlandi.
 echo Well Done - ZENLTY
+pause
+exit

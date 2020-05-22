@@ -28,3 +28,5 @@ adb pull /sdcard/EFS
 cls
 echo EFS program klasorune yedeklenmistir.
 echo Well Done - ZENLTY
+pause
+exit
